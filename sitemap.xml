@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mutexlocked.xyz/about/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <loc>http://mutexlocked.xyz/</loc>
+    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mutexlocked.xyz/post/hello/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mutexlocked.xyz/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://mutexlocked.xyz/post/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mutexlocked.xyz/about/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
